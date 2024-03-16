@@ -1,0 +1,2 @@
+PORT=8000
+MONGODB_URI=mongodb+srv://developersaliha:Bulent2011@cluster0.tzr2jfd.mongodb.net/
